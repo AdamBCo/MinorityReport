@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A9E3D25-8269-4DAB-97AA-E32993EE1383</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MinorityReport</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>16C48850F02CA8260E25CB782ACF8B3484D8972E</key>
+		<string>https://github.com/AdamBCo/MinorityReport.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MinorityReport.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>16C48850F02CA8260E25CB782ACF8B3484D8972E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AdamBCo/MinorityReport.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>16C48850F02CA8260E25CB782ACF8B3484D8972E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>16C48850F02CA8260E25CB782ACF8B3484D8972E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MinorityReport</string>
+		</dict>
+	</array>
+</dict>
+</plist>
